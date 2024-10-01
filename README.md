@@ -1,9 +1,13 @@
-<!-- # 3rd Round(10.01-10.30)
-1. -->
+# Entire 2024
+1. Be prepared to apply for an internship or an education program like SSAFY : I think what I have to do right now is to actually make programs for each part(Android, Front, and Back) to find out what I really want to do.
+2. Try applying for various companies to be numb about getting rejected and constantly reflect on the life choices and my skills.
 
-# 2nd Round(9.19-9.30)
-<!--I don't think I am ready to apply for the jobs. Especially, in terms of what only I can do. But I could write cover letters and get feedback or give feedback on my own. Experience is the most important anyway.  
-I've heard from one HR person and one PM that big companies want applicants with one specialty and overall ability to learn new things. But startups and IT companies want proficiency in specific skills(e.g. frameworks(React, Spring, ...), cloud structure, docker/kubernetes) and vast knowledge about the infrastructure. So to get into IT companies, more experience like internship seems necessary. -->
+# October
+1. 
+
+<!-- # 2nd Round(9.19-9.30)
+I don't think I am ready to apply for the jobs. Especially, in terms of what only I can do. But I could write cover letters and get feedback or give feedback on my own. Experience is the most important anyway.  
+I've heard from one HR person and one PM that big companies want applicants with one specialty and overall ability to learn new things. But startups and IT companies want proficiency in specific skills(e.g. frameworks(React, Spring, ...), cloud structure, docker/kubernetes) and vast knowledge about the infrastructure. So to get into IT companies, more experience like internship seems necessary.
 
 ## Primary Goals
 1. Try to make clear whom I want to be.
@@ -25,6 +29,18 @@ I've heard from one HR person and one PM that big companies want applicants with
 8. Continue studying Java web programming next step
 9. Learning by Teaching Experience (LTE)
 
+## Reflections
+1. Try to make clear whom I want to be: 
+1. Mnemonic skill practices & application: The goal is to practice basic skills of mnemonic skills so that I can easily apply them later.
+1. Complete rust 100 exercises: 
+1. Come up with a solid plan for job applicatios: 
+1. Make core habits that should last for a long time
+   1. Try to spend as much time as possible on goal-oriented activities
+   2. Make concrete goals to prove that I learned or I did and plans to guarantee acheiving the goals + Plan-Do-Feedback cycle
+   3. Think thoroughly to recall/remember. Do not blindly memorize/remember.
+1. Continue studying Java web programming next step: 
+1. Learning by Teaching Experience (LTE): 
+
 # 1st Round(9.10-9.18)
 I can't properly control my time and environments due to the long holidays. So I am not going to do the things that require constant reviews and no distractions.
 1. Complete Rust 100 Exercises:  
@@ -39,3 +55,4 @@ I can't properly control my time and environments due to the long holidays. So I
    2. Plan-Do-Feedback cycle: With Rust exercises.
 4. Read 《The Organized Mind》 in A Top-Down Way:  
    - Write a review or an argument regarding the core contents. Apply the evaluation based approach.
+-->
