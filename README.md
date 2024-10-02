@@ -1,15 +1,15 @@
 # Ultimate Goals of 2024
 1. Be prepared to apply for an internship or an education program like SSAFY: I think what I have to do right now is to actually make programs for each part(Android, Front, and Back) to find out what I really want to do.
    1. Do my best on practice SW project to get an attention from the CTO so that I can get the internship at Miridi if possible.
-   2. Make 
 3. Try applying for various companies to be numb about getting rejected and constantly reflect on the life choices and my skills.
 4. Make a blog and organize what I've learned. = Distribution of refined knowledge
 
 # General Plans for 2024
-October
+### October
 - Wrap up what I am currently doing, to reach a level that I can prove I learned at least few things I wanted in the first place
-- Build a simple web application(probably a simple online forum) using top-down learning. The main goal is to think about the considerations in providing services and get basic understanding and skills of frameworks.  
-November-December
+- Build a simple web application(probably a simple online forum) using top-down learning. The main goal is to think about the considerations in providing services and get basic understanding and skills of frameworks.
+  
+### November-December
 - Take a part in the at least two group projects. Make sure that I'm not the only programmer.
 - Do some simple side project related to my life to show that I can solve unorthodox problems
 - Analyze and reverse-engineer currently exisiting websites
@@ -24,11 +24,12 @@ November-December
 6. Write at least two posts about daily IT knowledge.
 7. Memorize CS knowledge chosen by tech interviews using mnemonic skills. Develop the skills themselves along the way.
 8. Sign up for a piano institute.
-9. Download one new-age sheet music and make it on my own. Compare the result with sheet.
-10. Make an Android app that can get QR with one click.
-11. Figure out if there's a way I can reserve my meals automatically.
-12. Constantly practice observation and drawing without looking.
-13. Write a few sentences using rhyme, metaphor, and association every day with what I have felt or thought that day.
+9. Apply for all companies in Jasoseol.com that I can meet the requirements.
+10. Download one new-age sheet music and make it on my own. Compare the result with sheet.
+11. Make an Android app that can get QR with one click.
+12. Figure out if there's a way I can reserve my meals automatically.
+13. Constantly practice observation and drawing without looking.
+14. Write a few sentences using rhyme, metaphor, and association every day with what I have felt or thought that day.
 
 <!-- # 2nd Round(9.19-9.30)
 I don't think I am ready to apply for the jobs. Especially, in terms of what only I can do. But I could write cover letters and get feedback or give feedback on my own. Experience is the most important anyway.  
