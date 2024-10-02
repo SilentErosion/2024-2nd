@@ -1,6 +1,6 @@
-Question what I wonder very specifically
-Learn what I *need*
-Remember what I learned
+Question what I wonder very specifically  
+Learn what I *need*   
+Remember what I learned  
 
 1. Be a good programmer
     1. Get a lot of hands-on experiences in various fields of IT(e.g. Android apps, web front/back, Linux). And Be proficient in at least one field.
