@@ -4,17 +4,31 @@
    2. Make 
 3. Try applying for various companies to be numb about getting rejected and constantly reflect on the life choices and my skills.
 4. Make a blog and organize what I've learned. = Distribution of refined knowledge
-5. 
+
+# General Plans for 2024
+October
+- Wrap up what I am currently doing, to reach a level that I can prove I learned at least few things I wanted in the first place
+- Build a simple web application(probably a simple online forum) using top-down learning. The main goal is to think about the considerations in providing services and get basic understanding and skills of frameworks.  
+November-December
+- Take a part in the at least two group projects. Make sure that I'm not the only programmer.
+- Do some simple side project related to my life to show that I can solve unorthodox problems
+- Analyze and reverse-engineer currently exisiting websites
+- Get a room somewhere in Seoul
 
 # October
 1. Always memorize what I learned using mnemonic skills. And constantly review them.
-2. Complete Java Web Programming Next Step: 
-3. Complete Rust 100 Exercises: 
-4. Code an online forum to practice front-end and back-end frameworks: 
-5. Write at least two posts about daily IT knowledge.
-6. Memorize CS knowledges chosen by tech interviews using mnemonic skills. Develop the skills themselves along the way.
-7. Constantly practice observation and drawing without looking.
+2. Give my best to practice SW project: Evaluate my code in terms of SOLID principle, naming rules, UML class diagram, etc and make amends constantly. Maybe MVP approach and constant refactoring.
+3. Complete Java Web Programming Next Step -> Make a server application that I can use and that uses everything I learned in the book
+4. Complete Rust 100 Exercises: Do what I planned at first
+5. Code an online forum to practice front-end and back-end frameworks
+6. Write at least two posts about daily IT knowledge.
+7. Memorize CS knowledge chosen by tech interviews using mnemonic skills. Develop the skills themselves along the way.
 8. Sign up for a piano institute.
+9. Download one new-age sheet music and make it on my own. Compare the result with sheet.
+10. Make an Android app that can get QR with one click.
+11. Figure out if there's a way I can reserve my meals automatically.
+12. Constantly practice observation and drawing without looking.
+13. Write a few sentences using rhyme, metaphor, and association every day with what I have felt or thought that day.
 
 <!-- # 2nd Round(9.19-9.30)
 I don't think I am ready to apply for the jobs. Especially, in terms of what only I can do. But I could write cover letters and get feedback or give feedback on my own. Experience is the most important anyway.  
@@ -48,14 +62,14 @@ I've heard from one HR person and one PM that big companies want applicants with
 1. Mnemonic skill practices & application: The goal is to practice basic skills of mnemonic skills so that I can easily apply them later
    - I don't think practicing skills themselves align with directness.
 1. Complete rust 100 exercises
-   - ~7.9, 13 left -> probably about 6 hours more
+   - ~7.9, 13 left -> probably about 10 hours more
 1. Come up with a solid plan for job applications
    - I am currently reading the books about being a programmer. What I have felt so far are:
       1. It is always more efficient to study with other students, or real programmers if possible.
       1. Good feedback is all you need to learn.
       1. Always show who you are and what you do to get feedback.
       1. Top-down learning is necessary as I can't learn everything and feedback is only possible that way.
-   - I didn't watch and won't the Youtube lectures as the general jobs are different from programming jobs.
+   - I didn't and won't watch the Youtube lectures as the general jobs are different from programming jobs.
    - Instead, I will ask for some advice from Miridi CTO, other programmers in field by sending cold mails, and developer community members.
    - Overall, I'm going to make a portfolio to show that I have basic skills and understanding of the frameworks.
 1. Make core habits that should last for a long time.
