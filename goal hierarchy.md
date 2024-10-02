@@ -9,9 +9,9 @@ Remember what I learned
 
 1. Be an artist - music, painting, poems, etc
     1. Musician: Composing, Rearranging, Performing
-      - ~~Make sheet music of my favorite songs to train my ear~~ (on hold till I get good enough)
-      - Download some piano new age sheet music, make them on my own and compare with them.
-      - Get used to playing the piano enough to focus on musical experiments rather than skills
+       - ~~Make sheet music of my favorite songs to train my ear~~ (on hold till I get good enough)
+       - Download some piano new age sheet music, make them on my own and compare with them.
+       - Get used to playing the piano enough to focus on musical experiments rather than skills
     2. Painter: Pencil, Watercolor/Oil/Colored pencil, Calligraphy, Designer
        - Drawing: Just do it and make a lot of mistakes. Then figure out what went wrong and fix them.
        - Calligraphy: Maybe take some basic lessons
