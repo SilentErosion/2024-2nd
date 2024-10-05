@@ -1,8 +1,16 @@
 # Ultimate Goals of 2024
-1. Be prepared to apply for an internship or an education program like SSAFY: I think what I have to do right now is to actually make programs for each part(Android, Front, and Back) to find out what I really want to do.
+1. Be prepared to apply for an internship or an education program like SSAFY: I think what I have to do right now is to actually make various programs(Android, Front, Back, Linux scripts, Crawler, etc) to find out what I really want to do.
    1. Do my best on practice SW project to get an attention from the CTO so that I can get the internship at Miridi if possible.
+   2. Make at least one program that some people around me can actually benefit from.
+   3. Take part in at least one project as a leader to improve leadership skills(goal and environment setting: motivation/learning opportunity/responsibiility in decisions, conflict management by social engineering)
 3. Try applying for various companies to be numb about getting rejected and constantly reflect on the life choices and my skills.
-4. Make a blog and organize what I've learned. = Distribution of refined knowledge
+4. Make a blog and organize what I've learned. = Distribution of *refined* knowledge
+
+### Attitudes and Skills I have to acquire
+1. I am never fully ready for sth. Just start. Not knowing enough is just an excuse for being lazy.
+2. Do as much as I can at the first time or given time: If you are asked a question and you don't have the answer, show how you approach the question. If you are reading a book, understand, refine, and remember at the first time.
+3. Hardly say no or bad things about anything. Always express when there are things I feel grateful or good about.
+4. Always explain in details and background values of my words if there's a chance that could be misunderstood.
 
 # General Plans for 2024
 ### October
@@ -16,20 +24,28 @@
 - Get a room somewhere in Seoul
 
 # October
-1. Always memorize what I learned using mnemonic skills. And constantly review them.
-2. Give my best to practice SW project: Evaluate my code in terms of SOLID principle, naming rules, UML class diagram, etc and make amends constantly. Maybe MVP approach and constant refactoring.
-3. Complete Java Web Programming Next Step -> Make a server application that I can use and that uses everything I learned in the book
-4. Complete Rust 100 Exercises: Do what I planned at first
-5. Code an online forum to practice front-end and back-end frameworks
+### Basic Methodology: Always memorize what I learned using mnemonic skills. And constantly review them.
+### Objectives
+1. Complete Java Web Programming Next Step -> Make a server application that I can use and that uses everything I learned in the book
+4. Complete Rust 100 Exercises: Do what I planned at first. Code by unit tests. Don't try and error, instead minimize the number of attempts by carefully thinking through.
+5. Code an online forum to practice front-end and back-end frameworks. Maybe space reservation system (NH School piano room) or chatbot using LLM with existing answers on QnA section on the nhschool page would work.
 6. Write at least two posts about daily IT knowledge.
-7. Memorize CS knowledge chosen by tech interviews using mnemonic skills. Develop the skills themselves along the way.
+7. Memorize CS knowledge chosen by tech interviews using mnemonic skills. Develop the mnemonic and reading skills along the way.
 8. Sign up for a piano institute.
-9. Apply for all companies in Jasoseol.com that I can meet the requirements.
-10. Download one new-age sheet music and make it on my own. Compare the result with sheet.
-11. Make an Android app that can get QR with one click.
+10. Download one new-age sheet music and make it on my own. Compare the result with the sheet.
+11. Make an Android app that can get meal QR with one click.
 12. Figure out if there's a way I can reserve my meals automatically.
-13. Constantly practice observation and drawing without looking.
-14. Write a few sentences using rhyme, metaphor, and association every day with what I have felt or thought that day.
+    
+### Daily Activities  
+1. Apply for all companies in Jasoseol.com that I can meet the requirements.
+1. Constantly practice observation and drawing without looking.
+1. Write a few sentences using rhyme, metaphor, and association every day with what I have felt or thought that day.
+
+### Works at School
+1. Give my best to practice SW project: Evaluate my code in terms of SOLID principle, naming rules, UML class diagram, specification prediction, etc and make amends constantly. Maybe also MVP approach and constant refactoring.
+3. System programming assignments: Write unit tests and test cases, think like a programmer(e.g. abstraction, function design, algorithm and data structure), write clean code using naming rules and refactoring.
+4. Reverse engineering: Ask for some additional assignments I can try top-down learning on.
+
 
 <!-- # 2nd Round(9.19-9.30)
 I don't think I am ready to apply for the jobs. Especially, in terms of what only I can do. But I could write cover letters and get feedback or give feedback on my own. Experience is the most important anyway.  
