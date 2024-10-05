@@ -18,10 +18,11 @@
 - Build a simple web application(probably a simple online forum) using top-down learning. The main goal is to think about the considerations in providing services and get basic understanding and skills of frameworks.
   
 ### November-December
-- Take a part in the at least two group projects. Make sure that I'm not the only programmer.
-- Do some simple side project related to my life to show that I can solve unorthodox problems
+- Take a part in at least two group projects. Make sure that I'm not the only programmer so that I can learn from and collaborate with other programmers.
+- Do some simple side projects related to my life to show that I can solve unorthodox problems
 - Analyze and reverse-engineer currently exisiting websites
 - Get a room somewhere in Seoul
+- Study basic cloud, compiler, software engineering on my own.
 
 # October
 ### Basic Methodology: Always memorize what I learned using mnemonic skills. And constantly review them.
