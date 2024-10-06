@@ -3,7 +3,6 @@
    1. Do my best on practice SW project to get an attention from the CTO so that I can get the internship at Miridi if possible.
    2. Make at least one program that some people around me can actually benefit from.
    3. Take part in at least one project as a leader to improve leadership skills(goal and environment setting: motivation/learning opportunity/responsibiility in decisions, conflict management by social engineering)
-3. Try applying for various companies to be numb about getting rejected and constantly reflect on the life choices and my skills.
 4. Make a blog and organize what I've learned. = Distribution of *refined* knowledge
 
 ### Attitudes and Skills I have to acquire
@@ -29,7 +28,6 @@
 ### Objectives
 1. Complete Java Web Programming Next Step -> Make a server application that I can use and that uses everything I learned in the book
 4. Complete Rust 100 Exercises: Do what I planned at first. Code by unit tests. Don't try and error, instead minimize the number of attempts by carefully thinking through.
-5. Code an online forum to practice front-end and back-end frameworks. Maybe space reservation system (NH School piano room) or chatbot using LLM with existing answers on QnA section on the nhschool page would work.
 6. Write at least two posts about daily IT knowledge.
 7. Memorize CS knowledge chosen by tech interviews using mnemonic skills. Develop the mnemonic and reading skills along the way.
 8. Sign up for a piano institute.
@@ -38,8 +36,8 @@
 12. Figure out if there's a way I can reserve my meals automatically.
     
 ### Daily Activities  
-1. Apply for all companies in Jasoseol.com that I can meet the requirements.
-1. Constantly practice observation and drawing without looking.
+1. Train ear or build knowledge/pattern about music theory through reading and listening to sheet music.
+1. Practice observation and drawing without looking.
 1. Write a few sentences using rhyme, metaphor, and association every day with what I have felt or thought that day.
 
 ### Works at School
@@ -47,6 +45,8 @@
 3. System programming assignments: Write unit tests and test cases, think like a programmer(e.g. abstraction, function design, algorithm and data structure), write clean code using naming rules and refactoring.
 4. Reverse engineering: Ask for some additional assignments I can try top-down learning on.
 
+### Ones I Thought Impossible to Complete in A Month When I Read Again
+1. Code an online forum to practice front-end and back-end frameworks. Maybe space reservation system (NH School piano room) or chatbot using LLM with existing answers on QnA section on the nhschool page would work.
 
 <!-- # 2nd Round(9.19-9.30)
 I don't think I am ready to apply for the jobs. Especially, in terms of what only I can do. But I could write cover letters and get feedback or give feedback on my own. Experience is the most important anyway.  
