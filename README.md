@@ -1,9 +1,8 @@
 # Ultimate Goals of 2024
-1. Be prepared to apply for an internship or an education program like SSAFY: I think what I have to do right now is to actually make various programs(Android, Front, Back, Linux scripts, Crawler, etc) to find out what I really want to do.
-   1. Do my best on practice SW project to get an attention from the CTO so that I can get the internship at Miridi if possible.
-   2. Make at least one program that some people around me can actually benefit from.
-   3. Take part in at least one project as a leader to improve leadership skills(goal and environment setting: motivation/learning opportunity/responsibiility in decisions, conflict management by social engineering)
-4. Make a blog and organize what I've learned. = Distribution of *refined* knowledge
+1. Be prepared to apply for an internship or an education program like SSAFY.
+   1. Be proficient in most of the web development languages(Java, JS, Typescript), concepts, and frameworks(Spring, React)
+   2. Make at least one program that some people around me can actually benefit from
+2. Make a blog and organize what I've learned. = Distribution of *refined* knowledge
 
 ### Attitudes and Skills I have to acquire
 1. I am never fully ready for sth. Just start. Not knowing enough is just an excuse for being lazy.
@@ -17,8 +16,9 @@
 - Build a simple web application(probably a simple online forum) using top-down learning. The main goal is to think about the considerations in providing services and get basic understanding and skills of frameworks.
   
 ### November-December
-- Take a part in at least two group projects. Make sure that I'm not the only programmer so that I can learn from and collaborate with other programmers.
-- Do some simple side projects related to my life to show that I can solve unorthodox problems
+- Complete all online courses
+- Make some back-end websites for portfolio
+- Keep doing side projects
 - Analyze and reverse-engineer currently exisiting websites
 - Get a room somewhere in Seoul
 - Study basic cloud, compiler, software engineering on my own.
@@ -26,10 +26,10 @@
 # October
 ### Basic Methodology: Always memorize what I learned using mnemonic skills. And constantly review them.
 ### Objectives
-1. Complete Java Web Programming Next Step -> Make a server application that I can use and that uses everything I learned in the book
+1. Complete Java Web Programming Next Step
 4. Complete Rust 100 Exercises: Do what I planned at first. Code by unit tests. Don't try and error, instead minimize the number of attempts by carefully thinking through.
+5. Implement basic paint pane with Java for practice SW project.
 6. Write at least two posts about daily IT knowledge.
-7. Memorize CS knowledge chosen by tech interviews using mnemonic skills. Develop the mnemonic and reading skills along the way.
 8. Sign up for a piano institute.
 10. Download one new-age sheet music and make it on my own. Compare the result with the sheet.
 11. Make an Android app that can get meal QR with one click.
